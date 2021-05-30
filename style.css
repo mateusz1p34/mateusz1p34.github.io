@@ -41,17 +41,17 @@ ul {
 }
 
 li {
-   font-size:1.8rem;
-    width:10%;
+    font-size:1.8rem;
+    width:7%;
     display: inline-block;
     font-family: 'Cookie', cursive;
 }
-#tel{
-    float: right;
-	font-size:2.6rem;
-	font-family: 'Cookie', cursive;
-	margin-right: 20px;
+#tel_li{
+	float: right;	
+	font-size:1.8rem;
+	padding-right: 20 px;
 }
+
 
 a:hover {
     color:#FFD77F;
@@ -235,6 +235,9 @@ footer a {
     width:14%;
     display: inline-block;
 }
+
+
+
 
 
 
